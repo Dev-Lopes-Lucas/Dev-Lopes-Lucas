@@ -13,9 +13,9 @@ Learning and developing: <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <br>
 <br>
-🎓 Graduated from UFV (Universidade Federal de Viçosa) with a degree in Agronomy (focus in R programing and Statistics).
-🎓 Master Degree in Plant Production.
-🎓 CS50's Introduction to Computer Science - Harvard - EDX (loading...)
+<p>🎓 Graduated from UFV (Universidade Federal de Viçosa) with a degree in Agronomy (focus in R programing and Statistics).</p>
+<p>🎓 Master Degree in Plant Production.</p>
+<p>🎓 CS50's Introduction to Computer Science - Harvard - EDX (loading...)</p>
 
 😀 English, Portuguese and Spanish Speaker.
 
